@@ -1,9 +1,9 @@
 Project Title: Optimal Cross-Hedging Strategy for Real-World Asset Pairs
 
 Project Overview:
-In this project, we will apply the concepts from Chapter 3 of "Options, Futures, and Derivatives" by John Hull to develop an optimal cross-hedging strategy for two related but distinct asset classes not covered in the book.
+In this project, we will apply the concepts from Chapter 3 of "Options, Futures, and Derivatives" by John Hull to develop an optimal cross-hedging strategy for two related but distinct asset classes.
 We will utilize historical price data, analyze the relationship between the assets, and determine the optimal number of contracts for cross-hedging.
-The chosen asset pairs are Gold and Gold Mining Stocks.
+The chosen asset pairs are Gold and Gold Mining Stocks. The Period of hedging is 3 months.
 
 Project Steps:
 
