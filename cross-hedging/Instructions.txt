@@ -5,48 +5,42 @@ In this project, we will apply the concepts from Chapter 3 of "Options, Futures,
 We will utilize historical price data, analyze the relationship between the assets, and determine the optimal number of contracts for cross-hedging.
 The chosen asset pairs are Gold and Gold Mining Stocks. The Period of hedging is 3 months.
 
-Project Steps:
 
-Step 1: Literature Review and Concept Understanding:
+Step 1: Concept Understanding:
 
-Recap the key concepts of cross-hedging from Chapter 3 of "Options, Futures, and Derivatives" by John Hull.
+Read about the concepts of cross-hedging from Chapter 3 of "Options, Futures, and Derivatives" by John Hull.
 Research the specific characteristics and factors influencing Gold and Gold Mining Stocks markets.
+
 
 Step 2: Data Collection and Asset Selection:
 
 Gather historical price data for Gold and a selection of Gold Mining Stocks.
 Identify a suitable financial instrument to be used for cross-hedging (e.g., Gold Futures Contracts).
 
+
 Step 3: Data Analysis:
 
-Calculate the correlation between Gold prices and the selected Gold Mining Stocks' prices to determine the strength of their relationship.
 Analyze the statistical properties of both assets including mean, standard deviation, and historical volatility.
+
 
 Step 4: Developing Cross-Hedging Strategies:
 
 Develop various cross-hedging strategies using different numbers of Gold Futures Contracts.
 Analyze the potential risk reduction achieved by each strategy.
 
+
 Step 5: Simulation and Optimization:
 
 Simulate the performance of different cross-hedging strategies using historical data.
 Utilize optimization techniques to determine the optimal number of Gold Futures Contracts for each strategy.
+
 
 Step 6: Sensitivity Analysis:
 
 Perform sensitivity analysis by adjusting key parameters such as correlation strength, contract size, and transaction costs.
 Observe how changes in these parameters impact the optimal number of contracts.
 
-Step 7: Documentation and Presentation:
 
-Summarize the project's methodology, findings, and insights in a comprehensive report.
-Include graphs, charts, and tables to visualize the impact of different strategies and parameters on risk reduction.
 
-Step 8: Real-World Application:
-
-Apply the optimal cross-hedging strategy to current market conditions using real-time data.
-Monitor and evaluate the strategy's performance and adapt as needed.
-Data Sources:
-
-Historical Gold Prices: Yahoo Finance provides historical price data for commodities including Gold. Link to Gold Historical Prices
-Historical Gold Mining Stocks Prices: Yahoo Finance also offers historical price data for individual stocks. Search for the specific Gold Mining Stocks you're interested in. Yahoo Finance Stock Search
+Historical Gold Prices: Yahoo Finance
+Historical Gold Mining Stocks Prices: Yahoo Finance
